@@ -1,3 +1,5 @@
+For the homebrew [[Rules ledger]]
+
 This is the holy bible for both the world of [[Astoros]]
 
 This will include everything ranging from races to the nations on it to the monsers that will be mentioned oh and our gods, starting with [[The First]]
