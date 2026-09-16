@@ -1,0 +1,17 @@
+_The restless coast west of Cangansov_
+
+Manorn Nore is an orcish nation built on a simple, brutal principle: the throne belongs to whoever is strong enough to take it and hold it. Unlike its neighbors, it has no royal bloodline and no council of nobles — only the **Warlord-King**, whoever that currently is, and the standing law that any challenger may claim the crown by defeating its holder in single combat. It sounds chaotic to outsiders. In practice, Manorn Nore is surprisingly stable, run by whoever has most recently proven they're the strongest person in the nation, and by a government built specifically to survive that person changing.
+
+### History
+
+Generations ago, Manorn Nore was a scatter of independent orcish raiding-clans, warring over shipping lanes as often as with each other. No warlord could hold them together by force alone — every attempted dynasty collapsed the moment its founder died or was struck down by a rival. The clans eventually formalized what had been happening anyway: trial by combat, open to any challenger, as the only legitimate path to the throne. This is remembered as the **First Reckoning**, and it turned generations of civil war into a single recognized institution. Manorn Nore didn't unify by ending its power struggles — it unified by writing rules for them.
+
+### Government and the Reckoning
+
+Beneath the Warlord-King sits a functioning state: a standing council of hold-chiefs and guildmasters who manage trade, law, and the fleets day to day, regardless of who sits the throne. The Warlord-King rules with real authority — commanding the military, setting foreign policy, arbitrating disputes — but knows every day that authority is contested. Any warrior, of any station, may issue a formal challenge; if they win, they rule. If they lose and survive, they're expected to serve the new Warlord-King loyally, and most do — grudges are bad for business, and Manorn Nore has little patience for sore losers.
+
+Orcs dominate the throne and the warrior-culture beneath it, but the nation is far from orc-only. **Goliaths** are among its most feared and successful challengers, prized for raw strength. **Dwarves** run the forges that arm every warband, **humans, halflings, and gnomes** fill its ports and guildhalls, and even **tieflings** find the coast indifferent to bloodline where strength and usefulness speak louder. **Elves** occasionally drift down from Walingand to trade, bemused by the whole arrangement.
+
+### The Army
+
+Manorn Nore fields a genuine standing military, the **Ironcoast Legion**, organized and drilled year-round rather than assembled ad hoc — a mark of how far the nation has come from its warband days. Command of the Legion is a political prize in itself, often held by the Warlord-King's most trusted lieutenant, and a common stepping stone for the next challenger. Orc shock-infantry form its core, goliath champions lead its shield-breaking vanguard, and dwarf-forged arms and gnome-built naval engines round it out. The Legion is disciplined by regional standards, but every soldier in its ranks knows that at the very top, the chain of command can change in a single duel — and plenty of them are watching for their chance to be the one who changes it.
