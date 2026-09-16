@@ -1,0 +1,1 @@
+When rolling a nat 20 on an attack  role you take your damage die and roll twice, double the highest number
