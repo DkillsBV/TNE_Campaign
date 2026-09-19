@@ -1,5 +1,5 @@
 ```leaflet
-id: leaflet-map
+id: Astoros-Map
 image: [[TNE Campaign 1 map 4th part.png]]
 height: 500px
 lat: 50
