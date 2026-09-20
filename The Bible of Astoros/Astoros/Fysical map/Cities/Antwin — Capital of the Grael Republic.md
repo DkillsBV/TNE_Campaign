@@ -6,12 +6,14 @@ lat: 50
 long: 50
 minZoom: 1
 maxZoom: 10
-defaultZoom: 5
+defaultZoom: 10
 unit: meters
 scale: 1
 marker: default, 39.983334, -82.983330, [[Note]]
 darkMode: false
 ```
+
+
 
 ## Backstory
 
@@ -115,5 +117,7 @@ Northwest of Losove, smaller and quieter, mostly agricultural still.
 
 The newest and least developed of the outer districts, named — somewhat optimistically — for the open meadow it used to be before anyone started building on it.
 
-## Notable NPC's
+## The broken Gavel
+Bounty board
 
+![[Antwin_TheBrokenGavel_BountyBoard.png|700]]
