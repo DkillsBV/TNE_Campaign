@@ -1,1 +1,3 @@
 A warlock can change their visual look (temporarilly) after a long rest once they have chosen a patron, the moment they enter combat, or take damage they morph back into their original look
+
+once the shape is chosen it cannot change

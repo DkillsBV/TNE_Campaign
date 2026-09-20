@@ -6,4 +6,3 @@
 | electrum | 5 silver      |
 | gold     | 10 electrum   |
 | platinum | 10 gold       |
-|          |               |
