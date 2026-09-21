@@ -1,4 +1,6 @@
+ONLY FOR THE DM [[DM ledger]]
 For the homebrew [[Rules ledger]]
+
 
 This is the holy bible for both the world of [[Astoros]]
 
