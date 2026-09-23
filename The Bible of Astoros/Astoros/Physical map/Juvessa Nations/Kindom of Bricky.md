@@ -1,0 +1,19 @@
+_The southern coast and reaching waters of Juvessa_
+
+### Master of the Seas
+
+Bricky doesn't need to march an army anywhere, and that's precisely what makes it dangerous. Sprawling across the southern coastline and out into the water itself, Bricky has built its entire identity — and its claim to the title of master of the seas — not on conquest, but on control of the one thing every other kingdom on Juvessa eventually needs and can't provide for itself: the water. Where Edwarovii wins its arguments with steel and Newin wins them with leverage, Bricky wins them simply by deciding who gets to trade, land, or flee by sea at all.
+
+Its fleets back that claim up in a way no rival power has ever seriously challenged. Bricky's navy isn't the largest standing military on the continent, but it doesn't need to be — a kingdom that controls the shipping lanes doesn't have to defeat an enemy army, it just has to make sure that army never arrives with the supplies, reinforcements, or escape route it was counting on. Rival kingdoms measure Bricky's threat less by how many soldiers it could field and more by how quickly its neighbors' economies would seize up the moment Bricky decided to stop being cooperative.
+
+### A Quiet Kind of Danger
+
+That's what unsettles the rest of Juvessa about Bricky more than anything Edwarovii has ever done outright. Edwarovii's threat is loud, constant, and easy to plan around — everyone on the continent knows roughly what a campaign from the western mountains looks like. Bricky's threat is quieter and, in its way, worse: it rarely marches anywhere, rarely picks open fights, and yet holds a kind of leverage that could strangle a rival kingdom's trade, isolate its ports, or cut off an entire coastline's ability to resupply without a single soldier ever crossing a border. Newin's court treats Bricky with a wary, careful respect that even Edwarovii doesn't fully earn — a kingdom you don't want to fight, precisely because it would rather not fight you either, and has built its whole strategy around never having to.
+
+### Its People
+
+Bricky is predominantly **human**, its merchant-captains, naval officers, and coastal nobility built on generations of families who made their fortunes and their reputations on the water rather than the land. **Halflings**, well-suited to close shipboard life and famously good with cargo and trade accounts, crew and manage much of Bricky's merchant fleets. **Gnomes** dominate its shipwright guilds and naval engineering, responsible for the innovations that keep Bricky's navy ahead of anything its rivals could quickly match. **Goliaths** serve prominently as marines and ship's-guard, valued for the kind of close-quarters strength that matters when a boarding action, not a battlefield, decides an engagement. A notable population of **tieflings**, drawn by a maritime culture more interested in a sailor's skill than their bloodline, holds a comfortable and unusually well-integrated place throughout Bricky's fleets and port cities.
+
+### The Tideguard
+
+Bricky's navy, the **Tideguard**, is built for control rather than conquest — fast, well-supplied vessels designed to hold shipping lanes and choke points rather than win decisive fleet battles it rarely needs to fight in the first place. Its captains are trained as much in the economics of a blockade as in naval combat, understanding that the real weapon isn't the ship's cannon but the simple fact of its presence somewhere a rival kingdom desperately needs it to not be. Bricky has never needed to prove its navy could win a war outright. It's proven, repeatedly and quietly, that no one else's navy can afford to find out.

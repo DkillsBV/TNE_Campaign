@@ -1,0 +1,21 @@
+_The wealthy southern coast beside Unton_
+
+### Gold Before Crowns
+
+Baval Pen was never the largest power on the continent, and it has never needed to be. Where other nations measure themselves in territory or ancient bloodlines, Baval Pen measures itself the way it always has: in ledgers. Its harbors sit astride some of the richest trade routes in the region, and generations of shrewd merchant-lords turned a modest coastal holding into what is, by any honest accounting, the wealthiest nation on the continent — a fortune built on shipping tariffs, mineral concessions bought cheap off desperate neighbors, and a court that has always understood that a well-placed loan wins more wars than a well-placed sword.
+
+The ruling house did not rise through conquest or ancient right — it rose the way most things in Baval Pen do, by simply outspending everyone else at the table. Debts owed by rival noble families, generations old and quietly collected, still shape who holds power in half the great houses along the coast. Baval Pen doesn't need to conquer its neighbors when it can simply own the paper on them.
+
+### Small Steel, Sharpened Well
+
+What Baval Pen lacks in soldiers, it has never lacked in quality. Rather than field the vast levies of a Cangansov or a Taginumn, Baval Pen has always preferred a smaller, ruinously expensive standing force — the **Coinguard** — outfitted in the finest arms gold can commission, trained relentlessly rather than raised in a hurry, and paid well enough that desertion is essentially unheard of. Man for man, the Coinguard is considered among the deadliest fighting forces on the continent; there are simply never very many of them, because Baval Pen has always preferred quality it can control to quantity it would have to trust.
+
+Where the army truly wins its wars is before they start. Baval Pen has perfected the art of the bought outcome — rival commanders quietly retained, supply lines mysteriously delayed, enemy nobles suddenly and expensively reminded of old debts the moment a conflict looks inconvenient. More than one war involving Baval Pen has been decided by gold changing hands in a back room long before the Coinguard needed to draw a blade at all. The house motto, rarely spoken aloud but universally understood, might as well be: _a war won without spending soldiers is simply better accounting._
+
+### Its People
+
+Baval Pen is predominantly **human**, its merchant culture and noble houses built on generations of trade dynasties and marriage-alliances rather than any single founding people. **Tieflings** hold a notably comfortable place in Baval Pen's society — the nation's famously transactional worldview extends to bloodline as much as anything else, and a tiefling with capital or connections finds doors open here that stay firmly shut elsewhere on the continent. **Halflings and gnomes** dominate its banking houses, trade offices, and the intricate accounting that keeps the whole machine running, while **dwarves** oversee its mints and mineral concessions. A respected, well-paid minority of **orcs and goliaths** fill the ranks of the Coinguard, prized for their strength and hired at rates that keep them fiercely loyal to whoever's paying — currently, always, Baval Pen.
+
+### A House That Buys Its Peace
+
+To its neighbors, Baval Pen can look almost soft — a nation with a small army and an expensive court, in a region full of desperate militarization and open conquest. That impression rarely survives contact with reality. Baval Pen has outlasted wars it never had to fight by simply making sure both sides owed it money before the first blade was drawn, and its rare wars have been short, brutal, and expensive for everyone except Baval Pen. In a world sliding toward open conflict with the Empire of Am Aupeth, Baval Pen's court watches with characteristic calm — quietly deciding, as it always has, exactly how much this war is going to cost everyone else, and how much it's worth paying to make sure it isn't Baval Pen who pays it.
