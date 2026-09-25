@@ -1,0 +1,1 @@
+Place where Alkeides' boss, Alkeides' influence is felt the most since the seal placed over 4 thousand years ago is weakening yet it's physical body can't get out
