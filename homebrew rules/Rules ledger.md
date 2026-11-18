@@ -14,3 +14,4 @@
 [[Roll only when failure matters]]
 [[Every smart enemy has an exit]]
 [[Know what the monster wants]]
+[[Massive damage]]

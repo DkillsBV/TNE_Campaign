@@ -4,6 +4,4 @@ A minion has 1 hit point.
 - Take away fancy traits and big multiattacks.
 - To budget an encounter, count a handful of minions as one monster of a much lower challenge rating (3 to 4 steps lower).
 
-Used by [[Imperial Conscript]] and [[Imperial Shieldbearer]].
-
 Source: Stolen Rules, volume 1, by ShawnsVTTs, rule 04.1.
