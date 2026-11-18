@@ -33,6 +33,6 @@ To keep growing the empire, so that Vaskor is always fed and her line is never c
 3. Near the scar, spirits of the missing are stuck and cannot move on. A Doorkeeper of Velenna can confirm they never arrived.
 4. The party learns the Stolen Crown is the link between the Empress and Vaskor.
 
-## The weakness (for the level-5 fight)
+## The level-5 fight
 
-Not decided yet. See the questions in chat.
+A straight fight with no special weakness. Her stat block is on [[Vashtera Aupeth III]].
