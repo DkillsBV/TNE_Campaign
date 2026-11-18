@@ -8,7 +8,7 @@ She appears when the party is already low on HP. Her single attack is meant to e
 
 **Decree of the Motherhouse** · Action · no attack roll
 - Every creature she chooses within 60 ft is instantly knocked out. There is no damage roll and no save. This is the [[Massive damage]] rule at its extreme: she is far beyond the half-HP threshold.
-- A creature knocked out this way is at 0 HP, unconscious and stable. It does not roll death saves, and lore-wise it is not dead: the Empress spares them on purpose and the party wakes up captured.
+- A creature knocked out this way is at 0 HP and unconscious, and rolls death saving throws as normal. In the lore it is not dead: the Empress spares them on purpose, and if a character would die, her priests stabilise them, so the party wakes up captured. This is my suggestion for keeping everyone alive, so change it if you want deaths to be real.
 - This is the first-battle version only. The level-5 fight uses the full damage version in her stat block.
 
 She uses it on her first turn. The fight is meant to be lost.
@@ -65,5 +65,5 @@ Medium Humanoid (Human), Lawful Evil
 ## Notes
 
 - Check against [[Massive damage]]: her level-5 Decree deals 6d10 (average 33). A healthy level-5 character has about 40 HP, so half is about 20, and a failed save will usually knock them out instantly. A successful save (average 16) usually does not. Decide whether that is what you want for the real fight.
-- If you want it to kill instead of capture, remove the "stable" line.
+- If you want it to kill instead of capture, remove the line about her priests stabilising anyone who would die.
 - Radiant fits her priesthood role in the [[Empire of Am Aupeth]]. Swap the damage type if her faith ends up tied to one of [[The First]]'s twelve seats.
