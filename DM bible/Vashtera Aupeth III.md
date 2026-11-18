@@ -8,7 +8,7 @@ She appears when the party is already low on HP. Her single attack is meant to e
 
 **Decree of the Motherhouse** · Action · no attack roll
 - Every creature of her choice within 60 ft of her takes 5d10 radiant damage (average 27). A DEX save (DC 15) halves it (average 14).
-- A creature reduced to 0 HP by this attack is knocked unconscious and stable. It does not roll death saves and does not die. She wants them captured, not dead.
+- A creature reduced to 0 HP by this attack is at 0 HP, unconscious and stable. It does not roll death saves, and lore-wise it is not dead: the Empress spares them on purpose and the party wakes up captured.
 
 She uses it on her first turn. The fight is meant to be lost, so the party wakes up captured.
 
