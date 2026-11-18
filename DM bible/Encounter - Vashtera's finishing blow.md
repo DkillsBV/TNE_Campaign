@@ -6,13 +6,20 @@ The army wears the party down. [[Vashtera Aupeth III]] arrives when they are alr
 
 The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bottom of Dravethis. The battle is fought at the border itself, in the open ground in front of Dunmarch Hold. The party is in **Dunmarch Hold**, a fortified border settlement on the Unton side, gathering information before the fight. (Name is my proposal, change it if you like.) The scar at the heart of the empire is within reach to the north-west, which fits the clues in [[The Price of the First Crown]].
 
+## The battle at large
+
+- **Am Aupeth:** about 2,500 soldiers cross the border.
+- **Unton:** about 2,500 soldiers from the Dunmarch Hold garrison and nearby holds, roughly equal in numbers, and much more experienced. They have fought Am Aupeth's armies several times and have tried many different tactics against them. Describe their line as practised, not desperate.
+- **The party:** they are not the center of the war. They fight one sector of it: the 100 soldiers listed below. The rest of the battle goes on around them, and the party sees pieces of it.
+- Without Vashtera, the veteran Unton line would hold or win. Her arrival is what turns the battle.
+
 ## Before the battle: the settlement
 
 - The party spends time in the settlement gathering information. Use the adventure 1 clues from [[The Price of the First Crown]] as rumours: empty border villages with tables still set, good harvests in annexed land, officials who speak of the Empress as if her word were already law.
 - Unton is arming against Am Aupeth (see [[Unton]]), so locals will be nervous, and refugees from the lost western province can tell stories.
 - Dunmarch Hold has a large garrison of Unton soldiers, mostly dwarves, with human levies and a few orcs in the frontier regiments.
-- The garrison fights. The army crosses the border and the Unton soldiers hold the line against it, so the party fights alongside them, not alone. Unton's soldiers handle part of the army and take real losses, which keeps the 100 enemies from all falling on the five players.
-- The garrison is large but not a match for the army plus Vashtera, which is why the fight is lost.
+- The garrison fights. The army crosses the border and the Unton soldiers hold the line against it, so the party fights alongside them, not alone. Unton's veterans handle most of the army and take real losses, which keeps the 100 enemies in the party's sector from being joined by the rest.
+- The garrison is the equal of the army in numbers and better in experience, so it holds its line well until Vashtera arrives.
 - The army arrives on the road leading to the settlement. Decide whether the party has warning or is caught off guard.
 
 ## The forces
@@ -48,7 +55,7 @@ The conscripts and shieldbearers are fodder that die to any hit, so XP values do
 
 The imperial soldiers stop and part. She walks through the line without hurrying, unarmed, and does not look at the party until she is in range. The Unton soldiers nearby hesitate when they see her. She says a few words, unhurried, and tells the party they are not worth her effort.
 
-Then she uses **Decree of the Motherhouse** (held-back version: 5d10 radiant, DC 15, halved on a save). She picks only the party. Anyone who drops to 0 HP is unconscious and stable, and in the lore not dead. Soldiers don't touch the fallen. The Unton line breaks and pulls back toward the walls of Dunmarch Hold, because there is no standing against her.
+Then she uses **Decree of the Motherhouse** (held-back version: 5d10 radiant, DC 15, halved on a save). She picks only the party. Anyone who drops to 0 HP is unconscious and stable, and in the lore not dead. Soldiers don't touch the fallen. The experienced Unton line, which had held until now, breaks and pulls back toward the walls of Dunmarch Hold, because there is no standing against her.
 
 ## Aftermath
 
