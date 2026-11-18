@@ -6,11 +6,11 @@ The army wears the party down. [[Vashtera Aupeth III]] arrives when they are alr
 
 All human, all melee only, no ranged attacks.
 
-- 12 [[Imperial Conscript]] (25 XP each, 300 XP)
-- 4 [[Imperial Shieldbearer]] (50 XP each, 200 XP)
-- 1 [[Imperial Sergeant]] (100 XP)
+- 20 [[Imperial Conscript]] (1 HP each)
+- 6 [[Imperial Shieldbearer]] (1 HP each)
+- 1 [[Imperial Sergeant]] (27 HP)
 
-Total about 600 XP. For five level-3 players that is a moderate-to-hard fight on its own. Vashtera's decree ends it before it can become a slaughter.
+The conscripts and shieldbearers are fodder that die to any hit, so XP values do not reflect their threat. Their danger is numbers: many attacks at once, often with advantage. Vashtera's decree ends the fight before the party can simply cut through them.
 
 ## Setup
 
@@ -20,8 +20,8 @@ Total about 600 XP. For five level-3 players that is a moderate-to-hard fight on
 
 ## Rounds
 
-1. **Rounds 1 to 2:** a first wave of 6 Conscripts and 2 Shieldbearers closes in. The party should feel they can win.
-2. **Rounds 3 to 4:** the second wave (the rest) pushes in from the flanks. This is where Press the Line starts to hurt.
+1. **Rounds 1 to 2:** a first wave of 8 Conscripts and 3 Shieldbearers closes in. The party kills many quickly and should feel they can win.
+2. **Rounds 3 to 4:** the second wave (the rest) pushes in from the flanks. This is where Press the Line starts to hurt, since the party cannot kill them faster than they arrive.
 3. **Vashtera arrives:** at the end of round 4, or earlier if two players drop to 0 HP.
 
 ## Vashtera's entrance
@@ -38,5 +38,5 @@ Then she uses **Decree of the Motherhouse** (held-back version: 5d10 radiant, DC
 
 ## Notes
 
-- If the party is doing better than expected, add one more Sergeant or a third wave instead of raising anyone's damage.
+- If the party is doing better than expected, add another wave of fodder. Don't raise anyone's damage.
 - If the party is doing worse, have her arrive early. Nobody should die before she acts.

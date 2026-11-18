@@ -1,12 +1,12 @@
 Human army of the [[Empire of Am Aupeth]] · Minion · Melee only · Homebrew (new enemy)
 
-Slower to kill than a [[Imperial Conscript]], but still low damage. They hold the front of the line.
+Fodder like a [[Imperial Conscript]], but harder to hit. They hold the front of the line.
 
 **Imperial Shieldbearer**
 Medium Humanoid (Human), Lawful Neutral
 
 - **AC** 15 (shield, gambeson)
-- **HP** 13 (2d8 + 4)
+- **HP** 1
 - **Speed** 30 ft
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -18,6 +18,7 @@ Medium Humanoid (Human), Lawful Neutral
 - **CR** 1/4 (50 XP) · **Proficiency Bonus** +2
 
 **Traits**
+- **Fodder.** Any damage reduces the Shieldbearer to 0 HP. A missed attack, or a successful save against an effect that deals damage, does nothing to it.
 - **Shield Wall.** While the Shieldbearer is within 5 ft of another Shieldbearer, both have +1 AC.
 
 **Actions**
