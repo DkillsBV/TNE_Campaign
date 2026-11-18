@@ -53,7 +53,7 @@ Medium Humanoid (Human), Lawful Evil
 **Actions**
 - **Multiattack.** She makes two Sanctified Scepter attacks.
 - **Sanctified Scepter.** Melee Attack Roll: +9, reach 5 ft. Hit: 8 (1d8 + 4) bludgeoning damage plus 9 (2d8) radiant damage.
-- **Decree of the Motherhouse (Recharge 5-6).** Each creature of her choice within 60 ft makes a DC 17 Dexterity save with advantage, taking 33 (6d10) radiant damage on a failed save, or half as much on a success. A creature knocked out by it rolls death saving throws with advantage.
+- **Decree of the Motherhouse (Recharge 5-6).** Each creature of her choice within 60 ft makes a DC 15 Dexterity save with advantage, taking 33 (6d10) radiant damage on a failed save, or half as much on a success. A creature knocked out by it rolls death saving throws with advantage.
 
 **Legendary Actions** (3 per round, one at the end of another creature's turn)
 - **Sacred Flame.** She casts *sacred flame* (1 action).
