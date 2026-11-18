@@ -64,6 +64,6 @@ Medium Humanoid (Human), Lawful Evil
 
 ## Notes
 
-- Check against [[Massive damage]]: her level-5 Decree deals 6d10 (average 33). A healthy level-5 character has about 40 HP, so half is about 20, and a failed save will usually knock them out instantly. A successful save (average 16) usually does not. Decide whether that is what you want for the real fight.
+- Check against [[Massive damage]]: her level-5 Decree deals 6d10 (average 33). A healthy level-5 character has about 40 HP, so half is about 20, and a failed save will usually knock them out instantly. A successful save (average 16) usually does not. This is intended: if her Decree can cause massive damage, it can.
 - If you want it to kill instead of capture, remove the line about her priests stabilising anyone who would die.
 - Radiant fits her priesthood role in the [[Empire of Am Aupeth]]. Swap the damage type if her faith ends up tied to one of [[The First]]'s twelve seats.
