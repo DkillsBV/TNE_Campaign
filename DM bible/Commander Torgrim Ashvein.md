@@ -4,7 +4,7 @@ Everything below is my proposal. Change anything that doesn't fit.
 
 ## Who he is
 
-A male dwarf, grey-bearded, in his late 150s. He commands about 2,500 Unton soldiers at the border and has led the defence of Dunmarch Hold since the western province fell. He has fought [[Empire of Am Aupeth]]'s armies several times and tried many different tactics against them. He is practised, tired and careful.
+A male dwarf in his early 70s, which is young for a dwarf. He enlisted as soon as he came of age and has been fighting on the frontier ever since, so he looks and sounds older than he is: a dark beard with early grey, deep lines around the eyes and a scar or two. He has already done his time. He commands about 2,500 Unton soldiers at the border and has led the defence of Dunmarch Hold since the western province fell, which made him a commander far earlier than most. He has fought [[Empire of Am Aupeth]]'s armies several times and tried many different tactics against them. He is practised, tired and careful. Older officers defer to him because he has seen more fighting than they have, even though he is younger.
 
 He does not take part in the fight. He directs the battle from the wall or a command post behind the line, and the party reaches him there before and after.
 
