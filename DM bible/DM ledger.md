@@ -3,3 +3,7 @@
 [[The Price of the First Crown]]
 [[Vaskor, the Stolen Crown]]
 [[Vaskor fight]]
+[[Imperial Conscript]]
+[[Imperial Shieldbearer]]
+[[Imperial Sergeant]]
+[[Encounter - Vashtera's finishing blow]]
