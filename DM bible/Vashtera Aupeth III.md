@@ -20,7 +20,7 @@ What the party learns: she is far stronger than they are, she knows who they are
 
 ## Later fight (party level 5): full stat block
 
-Homebrew. Built for 5 level-5 players as a solo boss, roughly CR 9. Her power source is explained in [[The Price of the First Crown]].
+Homebrew. Built for 5 level-5 players as a solo boss, roughly CR 9. Her power comes from [[Vaskor, the Stolen Crown]]; see [[The Price of the First Crown]].
 
 **Vashtera Aupeth III, Empress of Am Aupeth**
 Medium Humanoid (Human), Lawful Evil
@@ -57,7 +57,7 @@ Medium Humanoid (Human), Lawful Evil
 
 **Legendary Actions** (3 per round, one at the end of another creature's turn)
 - **Sacred Flame.** She casts *sacred flame* (1 action).
-- **Hollow Pull.** One creature within 30 ft makes a DC 17 Constitution save or takes 10 (3d6) necrotic damage and she regains the same number of HP (2 actions).
+- **Stolen Pull.** One creature within 30 ft makes a DC 17 Constitution save or takes 10 (3d6) necrotic damage and she regains the same number of HP (2 actions).
 - **Move.** She moves up to half her speed without provoking opportunity attacks (1 action).
 
 **First battle (level 3): held back.** She uses only the weaker version of Decree: 5d10 radiant (average 27), DC 15, halved on a save. This is the attack described above. It is the same spell cast with less effort, because she does not take the fight seriously.
