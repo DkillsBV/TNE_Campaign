@@ -7,8 +7,9 @@ Party: 5 players (Rogue, Sorcerer, Warlock, Paladin, Druid), first-timers. They 
 She appears when the party is already low on HP. Her single attack is meant to end the fight in one shot.
 
 **Decree of the Motherhouse** · Action · no attack roll
-- Every creature of her choice within 60 ft of her takes 5d10 radiant damage (average 27). A DEX save (DC 15) halves it (average 14).
-- A creature reduced to 0 HP by this attack is at 0 HP, unconscious and stable. It does not roll death saves, and lore-wise it is not dead: the Empress spares them on purpose and the party wakes up captured.
+- Every creature she chooses within 60 ft is instantly knocked out. There is no damage roll and no save. This is the [[Massive damage]] rule at its extreme: she is far beyond the half-HP threshold.
+- A creature knocked out this way is at 0 HP, unconscious and stable. It does not roll death saves, and lore-wise it is not dead: the Empress spares them on purpose and the party wakes up captured.
+- This is the first-battle version only. The level-5 fight uses the full damage version in her stat block.
 
 She uses it on her first turn. The fight is meant to be lost.
 
@@ -59,11 +60,10 @@ Medium Humanoid (Human), Lawful Evil
 - **Stolen Pull.** One creature within 30 ft makes a DC 17 Constitution save or takes 10 (3d6) necrotic damage and she regains the same number of HP (2 actions).
 - **Move.** She moves up to half her speed without provoking opportunity attacks (1 action).
 
-**First battle (level 3): held back.** She uses only the weaker version of Decree: 5d10 radiant (average 27), DC 15, halved on a save. This is the attack described above. It is the same spell cast with less effort, because she does not take the fight seriously.
+**First battle (level 3).** She uses the instant-knockout version of Decree described above. It needs no roll because the party is already low and she does not take the fight seriously.
 
 ## Notes
 
-- Numbers: a level-3 character has about 24 HP, so anyone already hurt drops even on a successful save. A fresh level-5 character survives a failed save.
+- At level 5 her Decree (6d10, average 33) deals less than half the HP of a healthy character (about 40 HP at level 5), so the [[Massive damage]] rule does not trigger on a healthy party. It can still trigger on a low-HP character.
 - If you want it to kill instead of capture, remove the "stable" line.
-- The held-back Decree (DC 15, 5d10) is meant to look weaker than her full one (DC 17, 6d10) so the level-5 fight feels like her real strength.
 - Radiant fits her priesthood role in the [[Empire of Am Aupeth]]. Swap the damage type if her faith ends up tied to one of [[The First]]'s twelve seats.
