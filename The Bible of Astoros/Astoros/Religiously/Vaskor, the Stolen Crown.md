@@ -13,14 +13,28 @@ As it loosens, he is actively pushing the world into chaos. He is the source of 
 
 ## Backstory (proposal)
 
-The Ledger of Ages has a gap where his origin should be, so nobody can say where Vaskor came from. This is the story the continents tell, and none of them agree on the start of it.
+The Ledger of Ages has a gap where his origin should be, so nobody can say where Vaskor came from. What follows is the story the continents tell, and none of them agree on the start of it.
 
-He took power the way a thief takes a crown: from others, without asking, and without being given a seat. When his reach grew past what any single seat could answer, the Senate decided no one place could hold him. They split his binding into five seals and set one on each continent, so that no region holds enough of him to free him:
+### The rise
+
+The oldest tellings say he began as no one. He had no seat, no domain given to him and no place at the [[CONCORD HALL, Seat of the Senate]]. What he had was the habit of taking: a title here, an oath there, a crown from a king who trusted him. Each thing he took made the next easier, and every crown he took had its jewels pried out and kept.
+
+His power came from those who gave up their say. Where he ruled, people did not choose and did not have to. Order was whatever he said it was. That is the "enforced order" the twelve feared, and why the Senate calls his power usurped and not born.
+
+### The sealing
+
+By the time the Senate acted, his reach had grown past what any single seat could answer. No seat could hold him alone without becoming a ruler of its own, so they did it together. They split his binding into five seals, one on each continent, so that no region holds enough of him to free him:
 
 1. **[[Dravethis]]**, the center and largest continent. The seal here is the one being opened. It lies beneath [[Empire of Am Aupeth]], and the empire's growth is how he reaches out.
-2. **[[Navaerith]]**, bound by ancient magic that already holds older prisoners beneath it. Dragonborn and elves guard it without remembering why.
-3. **[[Juvessa]]**, a small continent that never stops fighting. Its constant wars hide how much of the seal's strain goes unnoticed.
-4. **[[Malagaerun]]**, an island continent in turmoil, where titles and borders keep splitting. Few there look at what lies under the land.
-5. **The fifth continent.** The Bible names only four, so the fifth is still unnamed.
+2. **[[Navaerith]]**, held by ancient magic that already guards older prisoners beneath it. Dragonborn and elves keep watch over it without remembering why.
+3. **[[Juvessa]]**, the smaller, more active continent, where the wars between kingdoms never stop and few look at what lies under the land.
+4. **[[Malagaerun]]**, the island continent in turmoil, where titles and borders keep splitting and nobody has time to look at the seal.
+5. **[[Gryndovar]]**
 
 Every seal is complete and holding, except the one in Dravethis.
+
+### Today
+
+As the Dravethis seal loosens, the order Vaskor imposes through Am Aupeth grows stricter and larger. This is how his power is felt even though he is still bound: the continent is being pushed toward chaos by one nation's rigid rule.
+
+Who is opening the seal, and whether the Senate knows it is failing, is not decided yet.
