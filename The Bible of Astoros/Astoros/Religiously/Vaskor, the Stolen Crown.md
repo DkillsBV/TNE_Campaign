@@ -11,62 +11,16 @@ As it loosens, he is actively pushing the world into chaos. He is the source of 
 
 ---
 
-ONLY FOR THE DM · Fought in adventure 2 · Linked from [[DM ledger]]
+## Backstory (proposal)
 
-Everything below is my proposal built on your text above. Change what doesn't fit.
+The Ledger of Ages has a gap where his origin should be, so nobody can say where Vaskor came from. This is the story the continents tell, and none of them agree on the start of it.
 
-## How he fits the rest of the lore
+He took power the way a thief takes a crown: from others, without asking, and without being given a seat. When his reach grew past what any single seat could answer, the Senate decided no one place could hold him. They split his binding into five seals and set one on each continent, so that no region holds enough of him to free him:
 
-- [[Vashtera Aupeth III]] is his conduit. See [[The Price of the First Crown]] for the clue ladder and the crown shards, which are the jewels pried out of his crown.
-- The scar in Am Aupeth is where the Dravethis seal sits. The vanished population is what has been feeding the seal's weakening.
-- Not decided yet: who is opening the seal, and whether the Senate knows it is failing.
+1. **[[Dravethis]]**, the center and largest continent. The seal here is the one being opened. It lies beneath [[Empire of Am Aupeth]], and the empire's growth is how he reaches out.
+2. **[[Navaerith]]**, bound by ancient magic that already holds older prisoners beneath it. Dragonborn and elves guard it without remembering why.
+3. **[[Juvessa]]**, a small continent that never stops fighting. Its constant wars hide how much of the seal's strain goes unnoticed.
+4. **[[Malagaerun]]**, an island continent in turmoil, where titles and borders keep splitting. Few there look at what lies under the land.
+5. **The fifth continent.** The Bible names only four, so the fifth is still unnamed.
 
-## The fight (adventure 2)
-
-He is not free. The party fights a **fragment of him** pushing through the weakening seal, inside a ring of runes at the scar. That keeps him strong enough to threaten the party and means he can be stopped without killing a being the Senate needed seven seals to hold.
-
-Two ways to win:
-1. **Re-bind him:** at the end of each round, a character can use an action to make a DC 15 Arcana or Religion check on the seal. Three successes in total bind the fragment again.
-2. **Break the fragment:** reduce him to 0 HP and the fragment collapses. The seal is still weakened afterwards, so the problem is delayed, not solved.
-
-Any shard the party took from the Handmaiden-Governors lowers the DC to 13, because it cuts what feeds him.
-
-## Stat block
-
-Homebrew. Built as a solo boss for 5 level-5 players, roughly CR 9. Check the party level before using it.
-
-**Vaskor, Fragment of the Stolen Crown**
-Medium Fiend (origin unknown), Lawful Evil
-
-- **AC** 17 (bone-white plate, pale as the crown)
-- **HP** 170 (20d8 + 80)
-- **Speed** 30 ft, but he cannot leave the 60-ft seal ring
-
-| STR | DEX | CON | INT | WIS | CHA |
-|---|---|---|---|---|---|
-| 18 (+4) | 12 (+1) | 18 (+4) | 16 (+3) | 14 (+2) | 20 (+5) |
-
-- **Saving Throws** CON +8, WIS +6, CHA +9
-- **Damage Resistances** necrotic, psychic
-- **Condition Immunities** charmed, frightened
-- **Senses** darkvision 60 ft, passive Perception 12
-- **Languages** all, telepathy 60 ft
-- **CR** 9 (5,000 XP) · **Proficiency Bonus** +4
-
-**Traits**
-- **Legendary Resistance (3/Day).** If he fails a saving throw, he can choose to succeed instead.
-- **Empty Settings.** Radiant light pours out of the empty jewel settings on his crown. Creatures of his choice within 10 ft of him have disadvantage on saving throws against his Dominion.
-
-**Actions**
-- **Multiattack.** He makes two Pried Edge attacks.
-- **Pried Edge.** Melee Attack Roll: +9, reach 5 ft. Hit: 12 (1d10 + 7) slashing damage plus 7 (2d6) necrotic damage.
-- **Dominion (Recharge 5-6).** Each creature of his choice within 30 ft makes a DC 17 Wisdom save. On a failure, the creature kneels: it is prone and can't make attacks until the end of its next turn.
-
-**Legendary Actions** (3 per round, one at the end of another creature's turn)
-- **Enforce Order (1 action).** One creature within 60 ft makes a DC 17 Wisdom save or has speed 0 and can't take reactions until the start of its next turn.
-- **Empty Setting (2 actions).** A 30-ft cone of radiant light. Each creature in it makes a DC 17 Dexterity save, taking 18 (4d8) radiant damage on a failed save, or half as much on a success.
-
-## Notes
-
-- Dominion plus Enforce Order are about "enforced order": they take the party's choices away without damaging them, so they read as scary but not unfair for first-timers.
-- If the party is low on HP, drop Dominion's recharge, since kneeling and Pried Edge can down a weak character quickly.
+Every seal is complete and holding, except the one in Dravethis.

@@ -48,7 +48,6 @@ Medium Humanoid (Human), Lawful Evil
 - **Spellcasting.** Wisdom, spell save DC 17, +9 to hit with spell attacks.
   - At will: *guidance*, *sacred flame*
   - 3/day each: *spirit guardians*, *bestow curse*, *dispel magic*
-- **Crown Shards.** She starts the fight linked to every crown shard that is still intact. Each shard the party destroyed beforehand gives her one fewer Legendary Resistance. If all shards are gone, she also loses Stolen Life.
 
 **Actions**
 - **Multiattack.** She makes two Sanctified Scepter attacks.
