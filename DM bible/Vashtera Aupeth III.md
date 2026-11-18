@@ -4,14 +4,18 @@ Party: 5 players, level 5 when they defeat her (Rogue, Sorcerer, Warlock, Paladi
 
 ## First battle: one attack
 
-**Sanctified Scepter** · Melee Weapon Attack · +7 to hit · reach 5 ft · one target
-- Hit: 1d8 + 4 bludgeoning damage plus 3d8 radiant damage (average 22)
-- Nat 20: use the [[Critical attack damage]] homebrew rule
+She appears when the party is already low on HP. Her single attack is meant to end the fight in one shot.
 
-She makes this one attack on her turn. Nothing else yet: no spells, no minions, no reactions.
+**Decree of the Motherhouse** · Action · no attack roll
+- Every creature of her choice within 60 ft of her takes 12d10 radiant damage (average 66). A DEX save (DC 15) halves it.
+- A creature reduced to 0 HP by this attack is knocked unconscious and stable. It does not roll death saves and does not die. She wants them captured, not dead.
+- A character that is still above 0 HP afterwards is the only one who can keep fighting, and cannot stop her.
+
+She uses it on her first turn. The fight is meant to be lost, so the party wakes up captured. The story picks up from there.
 
 ## Notes
 
-- Spell attack and save numbers for later fights are built on +7 to hit and save DC 15 (proficiency +3, Wisdom +4).
-- Hit points, AC, saves, spells and the rest of her stat block are not written yet. They come when you ask for the full BBEG.
+- Even a successful save (average 33 damage) should drop a low-HP level-5 character, so it works as the one-shot you described.
+- If you want it to kill instead of capture, remove the "stable" line.
+- Save DC 15 is based on proficiency +3 and Wisdom +4. Hit points, AC, spells and the rest of her stat block are not written yet. They come when you ask for the full BBEG.
 - Radiant fits her priesthood role in the [[Empire of Am Aupeth]]. Swap the damage type if her faith ends up tied to one of [[The First]]'s twelve seats.
