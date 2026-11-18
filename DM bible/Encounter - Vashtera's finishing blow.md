@@ -4,13 +4,16 @@ The army wears the party down. [[Vashtera Aupeth III]] arrives when they are alr
 
 ## Where it happens
 
-The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bottom of Dravethis. The party is in a border settlement (name not decided yet), gathering information before the fight. The scar at the heart of the empire is within reach to the north-west, which fits the clues in [[The Price of the First Crown]].
+The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bottom of Dravethis. The party is in **Dunmarch Hold**, a fortified border settlement on the Unton side, gathering information before the fight. (Name is my proposal, change it if you like.) The scar at the heart of the empire is within reach to the north-west, which fits the clues in [[The Price of the First Crown]].
 
 ## Before the battle: the settlement
 
 - The party spends time in the settlement gathering information. Use the adventure 1 clues from [[The Price of the First Crown]] as rumours: empty border villages with tables still set, good harvests in annexed land, officials who speak of the Empress as if her word were already law.
 - Unton is arming against Am Aupeth (see [[Unton]]), so locals will be nervous, and refugees from the lost western province can tell stories.
-- The army arrives at the settlement or on the road leading to it. Decide whether the party has warning or is caught off guard.
+- Dunmarch Hold has a large garrison of Unton soldiers, mostly dwarves, with human levies and a few orcs in the frontier regiments.
+- The garrison does not join the fight. Unton is not at war yet, and its commander has orders not to cross the border or start a war. The army meets the party outside the walls, on the road or in the fields, and the garrison can only watch from the walls or hold the gates. Decide your own reason: orders, a closed gate, or a commander who is afraid to move.
+- That the garrison stands by is part of why the scene hurts: help is right there and does not come.
+- The army arrives on the road leading to the settlement. Decide whether the party has warning or is caught off guard.
 
 ## The forces
 
