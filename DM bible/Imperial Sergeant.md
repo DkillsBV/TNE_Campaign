@@ -25,4 +25,4 @@ Medium Humanoid (Human), Lawful Neutral
 ## Notes
 
 - If the Sergeant falls, Conscripts that fail a DC 10 Wisdom save flee at the start of their turn.
-- One Sergeant per 10 or so soldiers. More than that makes the group too strong for low-level players.
+- One Sergeant per group of about 25 soldiers. Too many Sergeants make the army too strong for low-level players.
