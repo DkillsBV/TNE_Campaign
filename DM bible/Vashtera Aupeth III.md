@@ -10,11 +10,17 @@ She appears when the party is already low on HP. Her single attack is meant to e
 - Every creature of her choice within 60 ft of her takes 5d10 radiant damage (average 27). A DEX save (DC 15) halves it (average 14).
 - A creature reduced to 0 HP by this attack is at 0 HP, unconscious and stable. It does not roll death saves, and lore-wise it is not dead: the Empress spares them on purpose and the party wakes up captured.
 
-She uses it on her first turn. The fight is meant to be lost, so the party wakes up captured.
+She uses it on her first turn. The fight is meant to be lost.
+
+## Why she spares them
+
+She captures the party and lets them go because, in her eyes, they are too weak to matter. She is not afraid of them and has no use for them. She holds back on purpose in this fight and treats it as a lesson, not a battle. Compare it to Frieza in Dragon Ball Z: overwhelming, polite, and sure of herself. That arrogance is what the party can use against her later.
+
+What the party learns: she is far stronger than they are, she knows who they are, and she lets them walk away.
 
 ## Later fight (party level 5)
 
-The same attack should not look overpowered against a level-5 party, and it doesn't: a full-HP level-5 character has about 40 HP, so 27 damage (14 on a save) leaves them standing. Keep it as one of her normal actions. Only a character who is already low goes down.
+The same attack should not look overpowered against a level-5 party, and it doesn't: a full-HP level-5 character has about 40 HP, so 27 damage (14 on a save) leaves them standing. Keep it as one of her normal actions, now at full strength with her full stat block around it. Only a character who is already low goes down, so the fight feels hard but fair.
 
 ## Notes
 
