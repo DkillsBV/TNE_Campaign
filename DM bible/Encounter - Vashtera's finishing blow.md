@@ -55,7 +55,7 @@ The conscripts and shieldbearers are fodder that die to any hit, so XP values do
 
 The imperial soldiers stop and part. She walks through the line without hurrying, unarmed, and does not look at the party until she is in range. The Unton soldiers nearby hesitate when they see her. She says a few words, unhurried, and tells the party they are not worth her effort.
 
-Then she uses **Decree of the Motherhouse** (first-battle version: no roll and no save, instant knockout). She picks only the party. Anyone she hits is at 0 HP and unconscious, rolling death saves with advantage, and in the lore not dead (her priests stabilise anyone who would die). Soldiers don't touch the fallen. The experienced Unton line, which had held until now, breaks and pulls back toward the walls of Dunmarch Hold, because there is no standing against her.
+Then she uses **Decree of the Motherhouse** (first-battle version: no roll and no save, instant knockout). She picks only the party. Anyone she hits is at 0 HP and unconscious, rolling death saves as normal, and in the lore not dead (her priests stabilise anyone who would die). Soldiers don't touch the fallen. The experienced Unton line, which had held until now, breaks and pulls back toward the walls of Dunmarch Hold, because there is no standing against her.
 
 ## Aftermath
 
