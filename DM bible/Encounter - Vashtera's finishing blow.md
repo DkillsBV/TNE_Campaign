@@ -4,15 +4,15 @@ The army wears the party down. [[Vashtera Aupeth III]] arrives when they are alr
 
 ## Where it happens
 
-The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bottom of Dravethis. The party is in **Dunmarch Hold**, a fortified border settlement on the Unton side, gathering information before the fight. (Name is my proposal, change it if you like.) The scar at the heart of the empire is within reach to the north-west, which fits the clues in [[The Price of the First Crown]].
+The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bottom of Dravethis. The battle is fought at the border itself, in the open ground in front of Dunmarch Hold. The party is in **Dunmarch Hold**, a fortified border settlement on the Unton side, gathering information before the fight. (Name is my proposal, change it if you like.) The scar at the heart of the empire is within reach to the north-west, which fits the clues in [[The Price of the First Crown]].
 
 ## Before the battle: the settlement
 
 - The party spends time in the settlement gathering information. Use the adventure 1 clues from [[The Price of the First Crown]] as rumours: empty border villages with tables still set, good harvests in annexed land, officials who speak of the Empress as if her word were already law.
 - Unton is arming against Am Aupeth (see [[Unton]]), so locals will be nervous, and refugees from the lost western province can tell stories.
 - Dunmarch Hold has a large garrison of Unton soldiers, mostly dwarves, with human levies and a few orcs in the frontier regiments.
-- The garrison does not join the fight. Unton is not at war yet, and its commander has orders not to cross the border or start a war. The army meets the party outside the walls, on the road or in the fields, and the garrison can only watch from the walls or hold the gates. Decide your own reason: orders, a closed gate, or a commander who is afraid to move.
-- That the garrison stands by is part of why the scene hurts: help is right there and does not come.
+- The garrison fights. The army crosses the border and the Unton soldiers hold the line against it, so the party fights alongside them, not alone. Unton's soldiers handle part of the army and take real losses, which keeps the 100 enemies from all falling on the five players.
+- The garrison is large but not a match for the army plus Vashtera, which is why the fight is lost.
 - The army arrives on the road leading to the settlement. Decide whether the party has warning or is caught off guard.
 
 ## The forces
@@ -27,8 +27,8 @@ The conscripts and shieldbearers are fodder that die to any hit, so XP values do
 
 ## Setup
 
-- A road, bridge or gate at the edge of the settlement, across a battlefield. Shieldbearers hold the front, Conscripts press behind and around them, and the Sergeants stay at the back of their groups.
-- Not all 100 are in contact at once. Only a limited number can reach the party, because they need room to stand. Keep about 12 to 16 soldiers in contact at any time, and as each one dies, a new one steps in. Count the rest as the battlefield around the party: a sea of soldiers they cannot cut through.
+- A battlefield at the border in front of the gate, with a road, a ditch or a low wall running across it. Shieldbearers hold the front, Conscripts press behind and around them, and the Sergeants stay at the back of their groups.
+- Not all 100 are in contact at once. Only a limited number can reach the party, because they need room to stand. Keep about 12 to 16 soldiers in contact with the party at any time, and as each one dies, a new one steps in. The garrison holds the rest of the army back, so the sea of soldiers around the party is a battle line, with Unton soldiers fighting in it.
 - The soldiers are not trying to kill. They have orders to take the party alive, so they target to wound and avoid killing blows if they can.
 - Expect the party to take real damage, since the point is that they are low by the time she appears.
 
@@ -41,14 +41,14 @@ The conscripts and shieldbearers are fodder that die to any hit, so XP values do
 ## Rounds
 
 1. **Rounds 1 to 2:** the first group closes in. The party kills many quickly and should feel they can win.
-2. **Rounds 3 to 4:** a second group pushes in from the flanks. Press the Line starts to hurt, since the party cannot kill them faster than they arrive. Show the party the crowd behind.
+2. **Rounds 3 to 4:** a second group pushes in from the flanks. Press the Line starts to hurt, since the party cannot kill them faster than they arrive. Show the party the Unton line fighting and slowly giving ground.
 3. **Vashtera arrives:** at the end of round 4 or 5, or earlier if two players drop to 0 HP.
 
 ## Vashtera's entrance
 
-The soldiers stop and part. She walks through the line without hurrying, unarmed, and does not look at the party until she is in range. She says a few words, unhurried, and tells them they are not worth her effort.
+The imperial soldiers stop and part. She walks through the line without hurrying, unarmed, and does not look at the party until she is in range. The Unton soldiers nearby hesitate when they see her. She says a few words, unhurried, and tells the party they are not worth her effort.
 
-Then she uses **Decree of the Motherhouse** (held-back version: 5d10 radiant, DC 15, halved on a save). Everyone she picks within 60 ft takes the damage. Anyone who drops to 0 HP is unconscious and stable, and in the lore not dead. Soldiers don't touch the fallen.
+Then she uses **Decree of the Motherhouse** (held-back version: 5d10 radiant, DC 15, halved on a save). She picks only the party. Anyone who drops to 0 HP is unconscious and stable, and in the lore not dead. Soldiers don't touch the fallen. The Unton line breaks and pulls back toward the walls of Dunmarch Hold, because there is no standing against her.
 
 ## Aftermath
 
