@@ -1,1 +1,1 @@
-When rolling a nat 20 on an attack  role you take your damage die and roll twice, double the highest number
+When rolling a nat 20 on an attack roll you roll your damage die like normal and add the maximum of the die to it
