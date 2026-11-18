@@ -2,6 +2,16 @@ ONLY FOR THE DM · First battle · Party level 3 · 5 players (Rogue, Sorcerer, 
 
 The army wears the party down. [[Vashtera Aupeth III]] arrives when they are already low and ends the fight with one attack. The fight is meant to be lost, and the party wakes up captured.
 
+## Where it happens
+
+The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bottom of Dravethis. The party is in a border settlement (name not decided yet), gathering information before the fight. The scar at the heart of the empire is within reach to the north-west, which fits the clues in [[The Price of the First Crown]].
+
+## Before the battle: the settlement
+
+- The party spends time in the settlement gathering information. Use the adventure 1 clues from [[The Price of the First Crown]] as rumours: empty border villages with tables still set, good harvests in annexed land, officials who speak of the Empress as if her word were already law.
+- Unton is arming against Am Aupeth (see [[Unton]]), so locals will be nervous, and refugees from the lost western province can tell stories.
+- The army arrives at the settlement or on the road leading to it. Decide whether the party has warning or is caught off guard.
+
 ## The forces
 
 All human, all melee only, no ranged attacks. About 100 soldiers on the battlefield in total:
@@ -14,7 +24,7 @@ The conscripts and shieldbearers are fodder that die to any hit, so XP values do
 
 ## Setup
 
-- A road, bridge or gate across a battlefield. Shieldbearers hold the front, Conscripts press behind and around them, and the Sergeants stay at the back of their groups.
+- A road, bridge or gate at the edge of the settlement, across a battlefield. Shieldbearers hold the front, Conscripts press behind and around them, and the Sergeants stay at the back of their groups.
 - Not all 100 are in contact at once. Only a limited number can reach the party, because they need room to stand. Keep about 12 to 16 soldiers in contact at any time, and as each one dies, a new one steps in. Count the rest as the battlefield around the party: a sea of soldiers they cannot cut through.
 - The soldiers are not trying to kill. They have orders to take the party alive, so they target to wound and avoid killing blows if they can.
 - Expect the party to take real damage, since the point is that they are low by the time she appears.
