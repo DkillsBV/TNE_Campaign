@@ -7,3 +7,4 @@
 [[Imperial Shieldbearer]]
 [[Imperial Sergeant]]
 [[Encounter - Vashtera's finishing blow]]
+[[Commander Torgrim Ashvein]]

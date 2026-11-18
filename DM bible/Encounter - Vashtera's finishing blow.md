@@ -8,8 +8,8 @@ The southern border between [[Unton]] and the [[Empire of Am Aupeth]], at the bo
 
 ## The battle at large
 
-- **Am Aupeth:** about 2,500 soldiers cross the border.
-- **Unton:** about 2,500 soldiers from the Dunmarch Hold garrison and nearby holds, roughly equal in numbers, and much more experienced. They have fought Am Aupeth's armies several times and have tried many different tactics against them. Describe their line as practised, not desperate.
+- **Am Aupeth:** about 2,500 soldiers cross the border. [[Vashtera Aupeth III]] is their general. She does not fight until the moment she arrives.
+- **Unton:** about 2,500 soldiers from the Dunmarch Hold garrison and nearby holds, roughly equal in numbers, and much more experienced. [[Commander Torgrim Ashvein]] commands them. He does not fight, and the party talks to him before and after. They have never faced Vashtera in person. They have fought Am Aupeth's armies several times and have tried many different tactics against them. Describe their line as practised, not desperate.
 - **The party:** they are not the center of the war. They fight one sector of it: the 100 soldiers listed below. The rest of the battle goes on around them, and the party sees pieces of it.
 - Without Vashtera, the veteran Unton line would hold or win. Her arrival is what turns the battle.
 
