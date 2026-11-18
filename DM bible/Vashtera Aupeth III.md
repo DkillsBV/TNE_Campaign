@@ -8,7 +8,7 @@ She appears when the party is already low on HP. Her single attack is meant to e
 
 **Decree of the Motherhouse** · Action · no attack roll
 - Every creature she chooses within 60 ft is instantly knocked out. There is no damage roll and no save. This is the [[Massive damage]] rule at its extreme: she is far beyond the half-HP threshold.
-- A creature knocked out this way is at 0 HP and unconscious, and rolls death saving throws as normal. In the lore it is not dead: the Empress spares them on purpose, and if a character would die, her priests stabilise them, so the party wakes up captured. This is my suggestion for keeping everyone alive, so change it if you want deaths to be real.
+- A creature knocked out this way is at 0 HP and unconscious, and rolls death saving throws with advantage. In the lore it is not dead: the Empress spares them on purpose, and if a character would die, her priests stabilise them, so the party wakes up captured. This is my suggestion for keeping everyone alive, so change it if you want deaths to be real.
 - This is the first-battle version only. The level-5 fight uses the full damage version in her stat block.
 
 She uses it on her first turn. The fight is meant to be lost.
@@ -53,7 +53,7 @@ Medium Humanoid (Human), Lawful Evil
 **Actions**
 - **Multiattack.** She makes two Sanctified Scepter attacks.
 - **Sanctified Scepter.** Melee Attack Roll: +9, reach 5 ft. Hit: 8 (1d8 + 4) bludgeoning damage plus 9 (2d8) radiant damage.
-- **Decree of the Motherhouse (Recharge 5-6).** Each creature of her choice within 60 ft makes a DC 17 Dexterity save, taking 33 (6d10) radiant damage on a failed save, or half as much on a success.
+- **Decree of the Motherhouse (Recharge 5-6).** Each creature of her choice within 60 ft makes a DC 17 Dexterity save with advantage, taking 33 (6d10) radiant damage on a failed save, or half as much on a success. A creature knocked out by it rolls death saving throws with advantage.
 
 **Legendary Actions** (3 per round, one at the end of another creature's turn)
 - **Sacred Flame.** She casts *sacred flame* (1 action).
